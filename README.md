@@ -1,1 +1,1 @@
-# Next13, Firebase, Tailwind Tutorial
+# Next13, Firebase, Tailwind 
